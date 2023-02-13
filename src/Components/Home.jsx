@@ -1,4 +1,3 @@
-
 import NavBar from "./Nav";
 
 import "../App.css";
@@ -28,6 +27,13 @@ const Home = () => {
                   id="button-addon2"
                 >
                   Button
+                </button>
+                <button
+                  class="btn btn-outline-secondary"
+                  type="button"
+                  id="button-addon2"
+                >
+                  udpated
                 </button>
               </div>
             </div>
